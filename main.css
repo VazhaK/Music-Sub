@@ -1,0 +1,158 @@
+body{
+    background-color: #E0E8FF;
+    margin: 0;
+    height: 900px;
+    
+}
+
+img{
+    width: 100%;
+}
+
+.cont{
+    position: absolute;
+    top: 102px;
+    left: 495px;
+    width: 450px;
+    height: 697px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+
+
+.order-sum{
+    width: 354px;
+    height: 37px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    color: #1F2E55;
+    text-align: center;
+    margin: 48px;
+    margin-bottom: 0;
+    
+}
+
+.head {
+    width: 354px;
+    height: 78px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #717FA6;
+    margin: 48px;
+    margin-top: 17px;
+    margin-bottom: 0;
+    
+}
+
+.rect{
+    width: 354px;
+    height: 98px;
+    background: #F7F9FF;
+    border-radius: 11px;
+    margin: 48px;
+    margin-top: 20px;
+    margin-bottom: 0;
+
+
+}
+
+.rect-blue{
+    width: 354px;
+    height: 50px;
+    background: #382AE1;
+    border-radius: 11px;
+    margin: 48px;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+
+.order{
+    width: 96px;
+    height: 20px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #717FA6;
+    margin: 0 auto;
+    margin-top: 32px;
+    margin-bottom: 48px;
+}
+
+.pay{
+    color: #ffffff;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+
+.music-icon{
+    width: 48px;
+    height: 48px;
+    margin-left: 24px;
+    margin-top: 25px;
+}
+
+.plan{
+    width: 117px;
+    height: 21px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+    color: #1F2E55;
+    position: relative;
+    left: 95px;
+    bottom: 50px;
+    margin: 0;
+    
+}
+
+.price{
+    width: 100px;
+    height: 21px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #717FA6;
+    position: relative;
+    margin: 0;
+    bottom: 49px;
+    left: 93px;
+    
+}
+
+.change{
+    width: 52px;
+    height: 19px;
+    color: #382AE1;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    margin: 0;
+    position: relative;
+    bottom: 80px;
+    left: 275px;
+}
